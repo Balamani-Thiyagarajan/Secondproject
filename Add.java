@@ -2,8 +2,10 @@ class Add
 {
     public static void main(String args[])
     {
-        int a=10;
-        int b=677;
+
+        int a=1000;
+        int b=67;
+
         int c=a+b;
     }
 }
